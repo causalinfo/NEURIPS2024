@@ -1,5 +1,5 @@
 # Global options
-baseurl = "https://causalinfo.github.io/SIAM2024"
+baseurl = "https://causalinfo.github.io/NeurIPS2024"
 canonifyurls = true
 languagecode = "en"
 theme = "crl-uai-2022-theme"
@@ -7,12 +7,13 @@ disableKinds = ["taxonomyTerm"]
 
 # Params that are used in <head>
 [params]
-  supertitle = "Learning From Data With Information Theory and Causal Inference"
-  title = "A minisymposium @ the 2024 SIAM Annual Meeting"
-  subtitle = "July 18th & 19th 2024"
+  supertitle = "Parameter estimation and causal structure learning from observational time series data"
+  title = "A workshop @ the 2024 NeurIPS Conference"
+  subtitle = "December 14th & 15th 2024"
   author = "Joseph Janssen, Vincent Guan, Elina Robeva"
-  description = "2024 SIAM Annual Meeting minisymposium on 'Learning From Data With Information Theory and Causal Inference' "
-  keywords = ["minisymposium", "causal inference", "information theory"]
+  description = "2024 NeurIPS workshop on 'Parameter estimation and causal structure learning from observational time series data
+' "
+  keywords = ["workshop", "causal inference", "information theory", "time series"]
 
 # Options for Markdown renderer
 [markup.goldmark.renderer]
