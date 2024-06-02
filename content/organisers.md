@@ -17,6 +17,14 @@ title: "Organisers"
         <img src="/elina.png">
         <a href="https://personal.math.ubc.ca/~erobeva/index.html">Elina Robeva</a>
     </div>
+    <div class="person">
+        <img src="/soeren.png">
+        <a href="https://soerenwengel.github.io/">Søren Mogensen</a>
+    </div>
+    <div class="person">
+        <img src="/soeren.png">
+        <a href="https://uwaterloo.ca/scholar/g6tran/home">Giang Tran</a>
+    </div>
 
 </div>
 
