@@ -14,7 +14,7 @@ title: "Invited Speakers and Panelists"
         <td><a href="https://lizier.me/joseph/">Joseph Lizier</a></td>
     </div>
     <div class="person">
-        <img src="/LinboWang.jpg">
+        <img src="/LinboWang.png">
         <a href="https://sites.google.com/site/linbowangpku/home">Linbo Wang</a>
     </div>
     <div class="person">
