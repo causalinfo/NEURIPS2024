@@ -23,6 +23,7 @@ title: "Schedule and Format"
     <tr>
         <td>8:50 - 9:00</td>
         <td>Opening Remarks</td>
+        <td>Elina Robeva</td>
     </tr>
     <tr class="invited">
         <td>9:00 - 11:00</td>
@@ -44,16 +45,12 @@ title: "Schedule and Format"
         <td>TBA</td>
     </tr>
     <tr class="contributed">
-        <td>3:15 - 5:15</td>
+        <td>3:15 - 5:30</td>
         <td>Poster Session</td>
         <td>TBA</td>
     </tr>
     <tr>
-        <td>12:25 - 12:30</td>
-        <td>Discussion</td>
-    </tr>
-    <tr>
-        <td>5:15 - 6:00</td>
+        <td>5:30 - 6:00</td>
         <td>Closing Remarks & Announcement of Best Paper Awards</td>
         <td>Elina Robeva</td>
     </tr>
