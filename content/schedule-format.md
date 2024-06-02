@@ -3,7 +3,7 @@ title: "Schedule and Format"
 ---
 
 
-# Minisymposium Schedule for July 18th 2024
+# Tentative Workshop Schedule
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 18px; margin-top: 18px;">
     Legend:
@@ -15,96 +15,47 @@ title: "Schedule and Format"
     <tr>
         <th style="width:25%">
         Time
-        (<a href="https://www.timeanddate.com/time/zones/edt">Eastern Daylight Time</a>)
+        (<a href="https://www.timeanddate.com/worldclock/canada/vancouver">Vancouver Time</a>)
         </th>
         <th>Program</th>
         <th>Speaker</th>
     </tr>
-    <tr class="invited">
-        <td>11:00 - 11:25</td>
-        <td>The Dependency Diagram: A New Method of Understanding Interdependence in Multivariate Distributions</td>
-        <td>Ryan G. James (UC Davis)</td>
-    </tr>
     <tr>
-        <td>11:25 - 11:30</td>
-        <td>Discussion</td>
+        <td>8:50 - 9:00</td>
+        <td>Opening Remarks</td>
+    </tr>
+    <tr class="invited">
+        <td>9:00 - 11:00</td>
+        <td>3x (30 minute talk + 10min questions/transition) = 2 hrs</td>
+        <td>TBA</td>
     </tr>
     <tr class="contributed">
-        <td>11:30 - 11:55</td>
-        <td>Ultra-Marginal Feature Importance: Learning from Data with Causal Guarantees</td>
-        <td>Vincent Guan & Joseph Janssen (UBC)</td>
+        <td>11:00 - 12:00</td>
+        <td>Spotlight presentations</td>
+        <td>TBA</td>
     </tr>
     <tr>
-        <td>11:55 - 12:00</td>
-        <td>Discussion</td>
+        <td>12:00 - 1:15</td>
+        <td>Lunch and Discussions</td>
     </tr>
     <tr class="invited">
-        <td>12:00 - 12:25</td>
-        <td>Quantifying Information Flow and Information Interaction in Neural Circuits</td>
-        <td>Praveen Venkatesh (University of Washington)</td>
+        <td>1:15 - 3:15</td>
+        <td>3x (30 minute talk + 10min questions/transition) = 2 hrs</td>
+        <td>TBA</td>
+    </tr>
+    <tr class="contributed">
+        <td>3:15 - 5:15</td>
+        <td>Poster Session</td>
+        <td>TBA</td>
     </tr>
     <tr>
         <td>12:25 - 12:30</td>
         <td>Discussion</td>
     </tr>
-    <tr class="invited">
-        <td>12:30 - 12:55</td>
-        <td>Causal Feature Selection in the Era of Big Data</td>
-        <td>Raha Moraffah (Arizona State)</td>
+    <tr>
+        <td>5:15 - 6:00</td>
+        <td>Closing Remarks & Announcement of Best Paper Awards</td>
+        <td>Elina Robeva</td>
     </tr>
 </table>
 
-# 
-
-
-# Minisymposium Schedule for July 19th 2024
-
-<div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 18px; margin-top: 18px;">
-    Legend:
-    <span class="contributed">contributed</span> · 
-    <span class="invited">invited</span>
-</div>
-
-<table class="schedule">
-    <tr>
-        <th style="width:25%">
-        Time
-        (<a href="https://www.timeanddate.com/time/zones/edt">Eastern Daylight Time</a>)
-        </th>
-        <th>Program</th>
-        <th>Speaker</th>
-    </tr>
-    <tr>
-        <td>6:00 - 6:30</td>
-        <td>Discussion</td>
-    </tr>
-    <tr class="contributed">
-        <td>6:30 - 6:55</td>
-        <td>Learning Linear Non-Gaussian Cyclic Causal Models Via Algebraic Constraints</td>
-        <td>Elina Robeva (UBC)</td>
-    </tr>
-    <tr>
-        <td>6:55 - 7:00</td>
-        <td>Discussion</td>
-    </tr>
-    <tr class="invited">
-        <td>7:00 - 7:25</td>
-        <td>Causal Learning in Stochastic Processes: A Graphical Framework Using Local Independence</td>
-        <td>Søren Mogensen (Lund University)</td>
-    </tr>
-    <tr>
-        <td>7:25 - 7:30</td>
-        <td>Discussion</td>
-    </tr>
-    <tr class="invited">
-        <td>7:30 - 7:55</td>
-        <td>Causal Inference in Directed, Possibly Cyclic, Graphical Models</td>
-        <td>Pardis Semnani (UBC)</td>
-    </tr>
-</table>
-
-
-
-## Virtual Presentations
-
-All presentations will be done virtually (25 minutes each). Try to keep it short so we have time for lots of discussion!
