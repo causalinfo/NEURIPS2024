@@ -22,7 +22,7 @@ title: "Organisers"
         <a href="https://soerenwengel.github.io/">Søren Mogensen</a>
     </div>
     <div class="person">
-        <img src="/soeren.png">
+        <img src="/Tran.png">
         <a href="https://uwaterloo.ca/scholar/g6tran/home">Giang Tran</a>
     </div>
 
