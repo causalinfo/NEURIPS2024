@@ -7,11 +7,11 @@ disableKinds = ["taxonomyTerm"]
 
 # Params that are used in <head>
 [params]
-  supertitle = "Parameter estimation and causal structure learning from observational time series data"
+  supertitle = "Causal System Identification from Time Series"
   title = "A workshop @ the 2024 NeurIPS Conference"
   subtitle = "December 14th & 15th 2024"
   author = "Elina Robeva, Vincent Guan, Joseph Janssen, Søren Mogensen, Giang Tran"
-  description = "2024 NeurIPS workshop on 'Parameter estimation and causal structure learning from observational time series data'"
+  description = "2024 NeurIPS workshop on 'Causal System Identification from Time Series'"
   keywords = ["workshop", "causal inference", "information theory", "time series"]
 
 # Options for Markdown renderer
