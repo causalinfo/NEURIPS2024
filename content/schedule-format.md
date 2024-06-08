@@ -27,7 +27,7 @@ title: "Schedule and Format"
     </tr>
     <tr class="invited">
         <td>9:30 - 11:00</td>
-        <td>3x (20 minute talk + 10min questions/transition)</td>
+        <td>3x invited talks (20 minute talk + 10min questions/transition)</td>
         <td>TBA</td>
     </tr>
     <tr class="invited">
@@ -45,17 +45,26 @@ title: "Schedule and Format"
         <td>TBA</td>
     </tr>
     <tr class="invited">
-        <td>1:15 - 3:15</td>
-        <td>3x (30 minute talk + 10min questions/transition) = 2 hrs</td>
-        <td>TBA</td>
-    </tr>
-    <tr class="contributed">
-        <td>3:15 - 5:30</td>
-        <td>Poster Session</td>
+        <td>1:50 - 2:50</td>
+        <td>Coordinated Poster Session within thematic groups</td>
         <td>TBA</td>
     </tr>
     <tr>
-        <td>5:30 - 6:00</td>
+        <td>2:50 - 3:20</td>
+        <td>Coffee Break</td>
+    </tr>
+    <tr class="contributed">
+        <td>3:20 - 4:20</td>
+        <td>Open Poster Session</td>
+        <td>TBA</td>
+    </tr>
+    <tr class="invited">
+        <td>4:20 - 5:50</td>
+        <td>3x invited talks (20 minute talk + 10min questions/transition)</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td>5:50 - 6:00</td>
         <td>Closing Remarks & Announcement of Best Paper Awards</td>
         <td>Elina Robeva</td>
     </tr>
