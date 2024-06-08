@@ -27,26 +27,22 @@ title: "Schedule and Format"
     </tr>
     <tr class="invited">
         <td>9:30 - 11:00</td>
-        <td>3x (20 minute talk + 10min questions/transition) = 1.5 hrs</td>
+        <td>3x (20 minute talk + 10min questions/transition)</td>
         <td>TBA</td>
     </tr>
     <tr class="invited">
         <td>11:00 - 11:50</td>
-        <td>Panel:Barriers for using causality in applications to other fields</td>
+        <td>Panel: Barriers for using causality in applications to other fields</td>
         <td>TBA</td>
     </tr>
     <tr>
-        <td>12:00 - 1:15</td>
-        <td>Lunch and Discussions</td>
+        <td>11:50 - 1:20</td>
+        <td>Lunchtime Mentorship</td>
     </tr>
     <tr class="contributed">
-        <td>11:00 - 12:00</td>
+        <td>1:20 - 1:50</td>
         <td>Spotlight presentations</td>
         <td>TBA</td>
-    </tr>
-    <tr>
-        <td>12:00 - 1:15</td>
-        <td>Lunch and Discussions</td>
     </tr>
     <tr class="invited">
         <td>1:15 - 3:15</td>
