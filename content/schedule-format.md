@@ -21,14 +21,23 @@ title: "Schedule and Format"
         <th>Speaker</th>
     </tr>
     <tr>
-        <td>8:50 - 9:00</td>
-        <td>Opening Remarks</td>
+        <td>9:00 - 9:30</td>
+        <td>Coffee + Opening Remarks</td>
         <td>Elina Robeva</td>
     </tr>
     <tr class="invited">
-        <td>9:00 - 11:00</td>
-        <td>3x (30 minute talk + 10min questions/transition) = 2 hrs</td>
+        <td>9:30 - 11:00</td>
+        <td>3x (20 minute talk + 10min questions/transition) = 1.5 hrs</td>
         <td>TBA</td>
+    </tr>
+    <tr class="invited">
+        <td>11:00 - 11:50</td>
+        <td>Panel:Barriers for using causality in applications to other fields</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <td>12:00 - 1:15</td>
+        <td>Lunch and Discussions</td>
     </tr>
     <tr class="contributed">
         <td>11:00 - 12:00</td>
