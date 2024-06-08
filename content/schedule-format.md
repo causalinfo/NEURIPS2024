@@ -44,7 +44,7 @@ title: "Schedule and Format"
         <td>Spotlight presentations</td>
         <td>TBA</td>
     </tr>
-    <tr class="invited">
+    <tr class="contributed">
         <td>1:50 - 2:50</td>
         <td>Coordinated Poster Session within thematic groups</td>
         <td>TBA</td>
